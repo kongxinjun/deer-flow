@@ -1,0 +1,6 @@
+split a-crlf lines=34,952,533 peak_extra=  1985.7 MiB time= 4.95s (tracemalloc on) out=79 chars
+slice a-crlf lines=34,952,533 peak_extra=     0.0 MiB time= 0.06s (tracemalloc on) out=79 chars
+split lf     lines=104,857,600 peak_extra=  1793.7 MiB time= 1.40s (tracemalloc on) out=39 chars
+slice lf     lines=104,857,600 peak_extra=     0.0 MiB time= 0.09s (tracemalloc on) out=39 chars
+split log    lines= 3,615,779 peak_extra=   531.3 MiB time= 1.17s (tracemalloc on) out=1119 chars
+slice log    lines= 3,615,779 peak_extra=     0.0 MiB time= 0.03s (tracemalloc on) out=1119 chars
